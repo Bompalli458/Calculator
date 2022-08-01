@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Text">number</string>
+    <string name="txtNo1">number</string>
+    <string name="enter_number_1">Enter Number 1</string>
+    <string name="enter_number_2">Enter Number 2</string>
+    <string name="result">Result</string>
+    <string name="add">ADD</string>
+    <string name="sub">SUB</string>
+    <string name="mul">MUL</string>
+    <string name="div">DIV</string>
+</resources>
